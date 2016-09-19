@@ -1,0 +1,6 @@
+{
+  "name": "MSDES",
+  "tagline": "C#, Discrete-Event Simulation, Activity Cycle Diagram, State Graph, Event Graph",
+  "body": "# MSDES\r\nMSDES stands for **_Modeling and Simulation of Discrete-Event Systems_**, a book written by Byoung K. Choi and Donghun Kang.\r\nThis project contains the source codes of exemplary DES simulators presented at the book MSDES.\r\n\r\n## Getting Started\r\nThese instructions will get you a copy of the project up and run on your local machine for development purposes. \r\nSee the guiding document for each DES simulator kept in the \"guide\" folder. \r\n\r\n### Prerequisites\r\nAll DES simulators are developed in C# using Visual Studio 2015. \r\nIf this is your first time, please download Visual Studio 2015 Community Version from [Visual Studio website](https://www.visualstudio.com/products/visual-studio-community-vs.aspx).\r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
